@@ -14,3 +14,12 @@ A curated list of foss, open source services for privacy and self agency.
 [mail2]:https://tuta.com/
 [mail3]:https://girofle.cloud/boites-mails/
 [mail4]:https://www.chatons.org/search/by-service?service_type_target_id=112&field_alternatives_aux_services_target_id=All&field_software_target_id=All&field_is_shared_value=All&title=
+
+
+## Other foss lists
+
+- [awesome-foss][list1]
+- [freedom-apps-privacy][list2]
+
+[list1]:https://github.com/awesome-foss/awesome-sysadmin
+[list2]:https://github.com/freedomappsprivacy/Freedom-apps-privacy
