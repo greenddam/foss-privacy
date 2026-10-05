@@ -17,7 +17,7 @@ A curated list of foss, open source services for privacy and self agency.
 
 ## Mail archivers
 
-[openarchiver][mailarchive1] 🇪🇪
+- [openarchiver][mailarchive1] 🇪🇪
 
 [mailarchive1]:https://openarchiver.com/
 
