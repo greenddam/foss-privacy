@@ -3,10 +3,10 @@ A curated list of foss, open source services for privacy and self agency.
 
 Mail
 
-[disroot][mail1]
-[tuta][mail2]
-[girofle.cloud][mail3]
-[chatons.org][mail4]
+- [disroot][mail1]
+- [tuta][mail2]
+- [girofle.cloud][mail3]
+- [chatons.org][mail4]
 
 [mail1]:https://disroot.org/
 [mail2]:https://tuta.com/
